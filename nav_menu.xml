@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showin = "main_activity">
+
+    <group
+        android:checkableBehavior="single"
+        android:menuCategory="alternative"
+        >
+
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/home"
+            android:title="Home"
+            />
+        <item
+            android:id="@+id/eng"
+            android:icon="@drawable/news"
+            android:title="English news"
+            />
+        <item
+            android:id="@+id/arabic"
+            android:icon="@drawable/news"
+            android:title="Arabic news"
+            />
+
+
+    </group>
+
+    <item android:title="">
+        <menu>
+            <item android:id="@+id/nav_contact"
+                android:icon="@drawable/baseline_contact_page_24"
+                android:title="contact us"/>
+
+        </menu>
+
+    </item>
+
+</menu>
