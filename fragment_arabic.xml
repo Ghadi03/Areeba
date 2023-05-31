@@ -5,13 +5,9 @@
     android:layout_height="match_parent"
     tools:context=".Arabic">
 
-    <!-- TODO: Update blank fragment layout -->
-    <TextView
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/news_recycler_view"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:layout_centerInParent="true"
-        android:textSize="60dp"
-        android:text="arabic news"
-        android:layout_centerVertical="true"/>
+        android:layout_height="match_parent" />
 
 </RelativeLayout>
