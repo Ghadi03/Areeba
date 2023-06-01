@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Google AI Introduces LaMDA, a Language Model for Dialog Applications",
+    "description": "Google AI today announced LaMDA, a new language model for dialog applications. LaMDA is trained on a massive dataset of text and code, and can generate text, translate languages, write different kinds of creative content, and answer your questions in an informative way.",
+    "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/B08D/production/_125379154_aigettyimages-1160995648.jpg",
+    "date": "2023-05-30"
+  },
+  {
+    "title": "Elon Musk Buys Twitter for $44 Billion",
+    "description": "Elon Musk has reached an agreement to buy Twitter for $44 billion. The deal, which is expected to close later this year, would give Musk control of one of the world's most popular social media platforms.",
+    "image_url": "https://d2eehagpk5cl65.cloudfront.net/img/c1200x675-w1200-q80/uploads/2022/04/thumbnail-9-3-1200x675.jpg.webp",
+    "date": "2023-04-25"
+  },
+  {
+    "title": "Russia Invades Ukraine",
+    "description": "Russia has invaded Ukraine, launching a full-scale military attack on its neighbor. The invasion has caused widespread death and destruction, and has led to a humanitarian crisis in Ukraine.",
+    "image_url": "https://warontherocks.com/wp-content/uploads/2022/02/russia-2022-1024x654.jpg",
+    "date": "2022-02-24"
+  }
+]
